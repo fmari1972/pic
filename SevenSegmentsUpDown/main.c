@@ -1,5 +1,5 @@
 #include <xc.h>
-#include"config.h"
+#include "config.h"
 #include "display7s.h"
 
 #define _XTAL_FREQ 4000000
