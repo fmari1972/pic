@@ -18,6 +18,5 @@ void main()
       __delay_ms(2000);	
       PORTAbits.RA4=0;
       __delay_ms(2000);	
-      PORTAbits.RA4=0;
     }
 }
